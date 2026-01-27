@@ -1,0 +1,6 @@
+Code.exe,VSCode,"D:\MDE\Microsoft VS Code\Code.exe"
+SumatraPDF.exe,SumatraPDF,"D:\apps\SumatraPDF\SumatraPDF.exe"
+mpvnet.exe,mpv,"D:\apps\mpv.net\mpvnet.exe"
+CalculatorApp.exe,计算器,calculator:
+Everything.exe,Everything,"D:\apps\Everything\Everything.exe"
+pwsh.exe,pwsh7,"C:\Program Files\PowerShell\7\pwsh.exe"
